@@ -41,10 +41,10 @@ The study cleans the dataset, maps price/volume dynamics, and quantifies how dis
 | 5 | **Limited-time promos on premium devices** | Run short “scarcity” promos (< 7 days) instead of blanket discounting to protect brand perception. | Premium ASP ≥ baseline |
 
 ## Challenges Overcame
-* **Data quality gaps** – messy `promo_price`, missing `customer_id`, no cost-of-goods column, 79 % orders in non-completed states; solved via SQL filters and imputation.  
+* **Data quality gaps** – messy `promo_price`, missing `customer_id`, no cost-of-goods column, 79 % orders in non-completed states; solved via Pandas filters and imputation.  
 * **Outlier mitigation** – extreme prices skewed medians; applied IQR winsorisation before elasticity modelling.  
 * **Short time-series** – only 14 months; supplemented correlation analysis with seasonality flags to avoid over-fitting.  
-* **Executive brevity** – converted > 20 SQL outputs into < 10 clear visuals and a five-slide narrative.
+* **Executive brevity** – converted > 20 Pandas/Seaborn outputs into < 10 clear visuals and a five-slide narrative.
 
 ## Additional Reflections
 * Pairing seasonality with discount elasticity made the case for targeted promos intuitive for non-technical stakeholders.  
