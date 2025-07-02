@@ -7,7 +7,7 @@ This project analyses ENIAC’s 14-month order history (≈ 44 k completed order
 
 The study cleans the dataset, maps price/volume dynamics, and quantifies how discount depth affects revenue by category and season. Outputs include:
 
-* **Python notebooks** – data cleaning, promo-price fixes, revenue-vs-discount metrics.  
+* **Python notebooks** – data cleaning, promo-price fixes, category/subcategory definition, revenue-vs-discount metrics.  
 * **Slide deck** – ten-slide executive presentation outlining insights and a phased pricing roadmap.
 
 ## Languages and Libraries Used
