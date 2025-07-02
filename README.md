@@ -14,8 +14,8 @@ Outputs include:
 ## Languages and Libraries Used
 | Layer | Tools / Libraries |
 |-------|-------------------|
-| Data wrangling | Python 3.11 (`pandas`, `numpy`, `pyjanitor`), PostgreSQL-style SQL |
-| Visualisation | `matplotlib`, `seaborn` |
+| Data wrangling | Python 3.11 (`pandas`, `numpy` |
+| Visualisation | `matplotlib`, `seaborn`, `tableau` |
 | Presentation | PowerPoint (`Eniac_Discount_case_study_final.pdf`) |
 | Version control | Git / GitHub |
 
