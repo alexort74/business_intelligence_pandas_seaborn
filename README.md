@@ -47,6 +47,6 @@ The study cleans the dataset, maps price/volume dynamics, and quantifies how dis
 * **Executive brevity** – converted > 20 SQL outputs into < 10 clear visuals and a five-slide narrative.
 
 ## Additional Reflections
-* Pairing geographic seasonality with discount elasticity made the case for targeted promos intuitive for non-technical stakeholders.  
+* Pairing seasonality with discount elasticity made the case for targeted promos intuitive for non-technical stakeholders.  
 * Maintaining one colour palette and icon set across notebooks and slides reinforced clarity.  
-* Next step: automate daily KPI pulls and integrate coupon-code A/B results into the elasticity scorecard.
+* Next step: enhance data to perform sales forecasting using machine learning methods.
